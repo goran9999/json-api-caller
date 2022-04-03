@@ -1,0 +1,34 @@
+[
+  {
+    "asset_id": "BTC",
+    "name": "Bitcoin",
+    "type_is_crypto": true,
+    "data_start": "Apr 3, 2022, 4:59:11 PM",
+    "price_usd": 43556.34,
+    "volume_1mth_used": 134215.23
+  },
+  {
+    "asset_id": "USD",
+    "name": "United States Dollar",
+    "type_is_crypto": false,
+    "data_start": "Apr 3, 2022, 4:59:11 PM",
+    "price_usd": 1.0,
+    "volume_1mth_used": 165445.23
+  },
+  {
+    "asset_id": "SOL",
+    "name": "Solana",
+    "type_is_crypto": true,
+    "data_start": "Apr 3, 2022, 4:59:11 PM",
+    "price_usd": 96.55,
+    "volume_1mth_used": 125635.23
+  },
+  {
+    "asset_id": "ETH",
+    "name": "Ethereum",
+    "type_is_crypto": true,
+    "data_start": "Apr 3, 2022, 4:59:11 PM",
+    "price_usd": 2451.35,
+    "volume_1mth_used": 7455445.23
+  }
+]

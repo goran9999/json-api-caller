@@ -54,7 +54,7 @@ public class Main2 {
 			pw.write(gson.toJson(currencies));
 			
 		} catch (Exception e) {
-			// TODO: handle exception
+			e.printStackTrace();
 		}
 	}
 }
